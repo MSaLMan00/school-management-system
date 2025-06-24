@@ -40,9 +40,9 @@ Update your credentials in application.properties:
 properties
 Copy
 Edit
-spring.datasource.url=jdbc:mysql://localhost:3306/school_db
+spring.datasource.url=jdbc:mysql://localhost:3307/school_sys
 spring.datasource.username=root
-spring.datasource.password=your_password
+spring.datasource.password=root
 🚀 Run the Project
 bash
 Copy
@@ -52,6 +52,8 @@ Swagger UI:
 http://localhost:8080/swagger-ui.html
 
 📖 API Endpoints Summary
+Base URL: http://localhost:8080
+
 📚 Students
 Method	Endpoint	Description
 POST	/api/students	Create a student
@@ -114,5 +116,5 @@ school_management/
 └── application.properties
 👤 Author
 Your Name
-GitHub
-LinkedIn
+M SALMAN KHAN
+https://www.linkedin.com/in/muhammad-salman-khan-94011a1ba/
