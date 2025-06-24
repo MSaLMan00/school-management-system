@@ -1,0 +1,10 @@
+
+q
+java:S1192%"\Define a constant instead of duplicating this literal "Student not found with ID: " 3 times.(Œãq
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÊ¢
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+o
+java:S6204S"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8›ÓŸú2
+o
+java:S6204`"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8£ÓŸú2
